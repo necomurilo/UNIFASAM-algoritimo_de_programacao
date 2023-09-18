@@ -63,6 +63,7 @@ class Carro :
 
     if self.velocidade >= 180 :
       self.velocidade = 180
+      print('\nVelocidade limite atingida!!!\n')
 
 pass
 
