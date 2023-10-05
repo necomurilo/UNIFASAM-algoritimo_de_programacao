@@ -1,5 +1,4 @@
 # Exercícios
-
 class Avião: # a minha classe começa aqui
   # Construtor, código que será executado assim que o obj. da classe for criado
   # Início do código do construtor
