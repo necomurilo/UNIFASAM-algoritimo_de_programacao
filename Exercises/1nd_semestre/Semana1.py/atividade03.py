@@ -1,3 +1,4 @@
+#atividade slids
 soma = 0.0
 while True:
   produto = float(input('informe o valor de um produto, 0 para finalizar o programa: '))
