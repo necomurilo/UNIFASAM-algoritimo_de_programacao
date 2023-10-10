@@ -1,3 +1,4 @@
+# Gerador de números primos
 def eh_primo(n):
     if n < 2:
         return False
