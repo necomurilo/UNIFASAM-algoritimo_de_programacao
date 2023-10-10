@@ -1,3 +1,4 @@
+# outro exemplo de classe e objeto
 class Carro :
 
 # definindo o construtor da classe
